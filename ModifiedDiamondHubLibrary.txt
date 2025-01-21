@@ -106,7 +106,7 @@ DiamondLogo_1.BorderSizePixel = 0
 DiamondLogo_1.Position = UDim2.new(0.5, 0,0.5, 0)
 DiamondLogo_1.Size = UDim2.new(0, 226,0, 226)
 DiamondLogo_1.Visible = false
-DiamondLogo_1.Image = "rbxassetid://118497060100008"
+DiamondLogo_1.Image = "rbxassetid://98098369637865"
 
 TopBar_1.Name = "TopBar"
 TopBar_1.Parent = Main_1
@@ -459,7 +459,7 @@ SliderImage_1.BorderColor3 = Color3.fromRGB(0,0,0)
 SliderImage_1.BorderSizePixel = 0
 SliderImage_1.Position = UDim2.new(0.023, 0,0.187999994, 0)
 SliderImage_1.Size = UDim2.new(0, 18,0, 18)
-SliderImage_1.Image = "rbxassetid://17100361702"
+SliderImage_1.Image = "rbxassetid://108196442079126"
 
 SliderText_1.Name = "SliderText"
 SliderText_1.Parent = Slider_1
@@ -592,7 +592,7 @@ BoxImage_1.BorderColor3 = Color3.fromRGB(0,0,0)
 BoxImage_1.BorderSizePixel = 0
 BoxImage_1.Position = UDim2.new(0.023, 0,0.187999994, 0)
 BoxImage_1.Size = UDim2.new(0, 18,0, 18)
-BoxImage_1.Image = "rbxassetid://17100563408"
+BoxImage_1.Image = "rbxassetid://108196442079126"
 
 BoxText_1.Name = "BoxText"
 BoxText_1.Parent = Box_1
@@ -646,7 +646,7 @@ DiamondLogo2_1.BorderSizePixel = 0
 DiamondLogo2_1.Position = UDim2.new(0.5, 0,0.5, 0)
 DiamondLogo2_1.Size = UDim2.new(0, 253,0, 253)
 DiamondLogo2_1.ZIndex = -1
-DiamondLogo2_1.Image = "rbxassetid://17099684036"
+DiamondLogo2_1.Image = "rbxassetid://108196442079126"
 DiamondLogo2_1.ImageTransparency = 0.6000000238418579
 
 UICorner_13.Parent = Main_1
@@ -680,7 +680,7 @@ UITogglerBtn_1.BorderColor3 = Color3.fromRGB(0,0,0)
 UITogglerBtn_1.BorderSizePixel = 0
 UITogglerBtn_1.Position = UDim2.new(0.5, 0,0.5, 0)
 UITogglerBtn_1.Size = UDim2.new(0, 56,0, 56)
-UITogglerBtn_1.Image = "rbxassetid://17099684036"
+UITogglerBtn_1.Image = "rbxassetid://108196442079126"
 
 local function TcnxpUxmCzofUssV()
 local script = Instance.new("LocalScript",Main_1)
